@@ -1,24 +1,22 @@
-# ⚡ NexaStudio | High-Performance Digital Solutions
-### Ecosistemas B2B & Software a Medida
+# NexaStudio | High-Performance Digital Solutions
+### B2B Ecosystems & Custom Software Architecture
 
-Desarrollamos ecosistemas e-commerce de ultra alta velocidad y soluciones de software de bajo nivel para escalar operaciones. Menos fricción, más conversión.
-
----
-
-## 🚀 Caso de Estudio Destacado: ZonaOnlineVzla
-**Cómo transformamos un catálogo masivo en una máquina de ventas sin fricción.**
-
-* **Arquitectura:** Headless E-commerce construido íntegramente en **Next.js** y desplegado en la infraestructura global de **Vercel**.
-* **Rendimiento Escalable:** El sistema renderiza y maneja de forma ultra fluida un inventario activo de **+420 productos** con tiempos de carga de milisegundos.
-* **Conversión Directa:** Sistema UI de *Lightbox* a medida y eliminación del "checkout" tradicional, integrando una pasarela de pedidos conectada directamente a la API de WhatsApp.
+We build ultra-fast e-commerce ecosystems and low-level software solutions to scale operations. Less friction, more conversion.
 
 ---
 
-## 🛠️ Arsenal Técnico & Exploración
-No solo armamos interfaces, construimos desde las bases.
+## Featured Case Study: ZonaOnlineVzla
+**How we transformed a massive catalog into a frictionless sales machine.**
 
-* **Web y Front-end:** Next.js, React, Node.js (Especialización en optimización de renderizado).
-* **Desarrollo a Bajo Nivel & Motores:** Zig, C, Python (Optimización de memoria y arquitecturas para hardware limitado).
-* **Game Dev:** GDScript, Desarrollo 2D nativo.
+* **Architecture:** Headless E-commerce built entirely on **Next.js** and deployed on **Vercel's** global edge infrastructure.
+* **Scalable Performance:** The system fluidly renders and manages an active inventory of **+420 products** with millisecond load times.
+* **Direct Conversion:** Custom *Lightbox* UI system and elimination of the traditional checkout, integrating a frictionless order gateway connected directly to the WhatsApp API.
 
-📫 **Contacto para negocios:** [Escribe aquí tu correo electrónico oficial]
+---
+
+## Technical Arsenal & Exploration
+We don't just build interfaces; we engineer from the ground up.
+
+* **Web & Front-end:** Next.js, React, Node.js (Specialized in rendering optimization).
+* **Low-Level & Engine Development:** Zig, C, Python (Memory optimization and architectures for constrained hardware).
+* **Game Dev:** GDScript, Native 2D Development.
